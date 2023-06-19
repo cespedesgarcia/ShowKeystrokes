@@ -310,7 +310,7 @@ Gui Add, Button, x235 y65 w65 h15 gAdvRestore, &Restore
 Gui Add, Button, x305 y65 w65 h15 gAdvDefault, &Default
 Gui Add, Text, x150 y35 w120 h15 vAdvText_1 +0x1000, % " Text_1"
 
-Gui Show, w400 h200, testingstuff
+Gui Show, w400 h200, testingstuff(DOESNT WORK ANYTHING HERE)
 
 backcolor_temp:=backcolor
 
