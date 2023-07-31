@@ -892,19 +892,11 @@ return															;
 blckdWord(3)													;
 return															; 
 ;-------------------.....Example -------------------------------
-:B0?*:msip::
+:B0?*:faceboo::
 blckdWord(4)
 return
 
-:B0?*:ьышз::
-blckdWord(4)
-return
-
-:B0?*:alla::
-blckdWord(4)
-return
-
-:B0?*:фддф::
+:B0?*:афсуищщ::
 blckdWord(4)
 return
 
