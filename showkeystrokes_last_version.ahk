@@ -1,7 +1,3 @@
-;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! consider only english?
-;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! separate ahk file?(so keypresses doesnt lag). add cpu gpu info also (ctrl+ F 'hwinfo_window' in 'WM_LBUTTONDOWN()'). make gui for editing what do you want to see in your GUI from hwinfo. make one GUI function for this (cpu/gpu\temp) and for future (spotify current song info) where you can choose all your font and UI settings. when entering settings gui kill main GUI to show Settings gui, and when exiting switch back to Main GUI with all settings from Setting gui.
-;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! separate ahk file?(so keypresses doesnt lag). add spotify current played song actively running in the line? e.g.: 'nt Song name - Artist name     Curre'. ASKING FOR INFO FROM SPOTIFY API LAGS SCRIPT, EVEN THOUGH IT WAS ON SEPARATE SETTIMER (THREAD)
-
 ; save this text in notepad as UTF-16 LE for "✔" symbol to work when saving settings in advanced settings window
 ; [up] or [down] or [right] or [left] + [Pause] >>> to pause/unpause script (press [Pause] in the end)
 ; "Words-Exceptions" are words that are triggering script to stop working for some time. f.e.: you start to type your password, and script will stop working for 5 sec. (eng is no case sensitive, but f.e. cyrillic case sensitive (didn't bother with other than ENG languages))
